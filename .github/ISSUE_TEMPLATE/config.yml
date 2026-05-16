@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🛟 Microsoft Fabric service support
+    url: https://support.fabric.microsoft.com/support/
+    about: For problems with the Microsoft Fabric service itself (not these exercises).
+  - name: 💬 Microsoft Fabric Community
+    url: https://community.fabric.microsoft.com/
+    about: Ask questions and discuss Microsoft Fabric with the community.
+  - name: 📚 Microsoft Learn — Fabric
+    url: https://aka.ms/learn-fabric
+    about: Find learning paths and modules that accompany these labs.

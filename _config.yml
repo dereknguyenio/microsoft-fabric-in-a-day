@@ -1,7 +1,24 @@
+title: Microsoft Fabric in a Day
+description: >-
+  Hands-on exercises that accompany the Microsoft Fabric learning modules on
+  Microsoft Learn. Covers lakehouses, Delta, pipelines, dataflows, warehouse,
+  real-time analytics, and data science on Microsoft Fabric.
+lang: en-US
 remote_theme: MicrosoftLearning/Jekyll-Theme
 exclude:
+  - README.md
   - readme.md
+  - CURRICULUM.md
+  - CODE_OF_CONDUCT.md
+  - SECURITY.md
+  - LICENSE
+  - _build.yml
   - .github/
+  - .gitignore
+  - .editorconfig
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
 header_pages:
   - index.html
 author: Microsoft Learning
